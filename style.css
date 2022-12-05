@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    margin-top: 10rem;
+   
+}
+
+ .row{
+    height: 80%;
+    text-align: center;
+    border-radius: 10px;
+     border-color: greenyellow;
+     }
+     .login{
+        height: 100%;
+        padding-top: 20rem;
+       text-align: center;
+      align-items: center;
+      line-height: 25px;
+    
+    
+    
+     }
+     .card-text{
+        height: 100%;
+        padding-top: 100px;
+        line-height: 50px;
+       
+        border-radius: 10px;
+       
+        
+     }
+     .text{
+        font-family:'Courier New', Courier, monospace;
+    font-weight:900;
+    color: white;
+    font-size: x-large;
+    font-style: normal;
+     }
+     .social-item{
+        height:80px ;
+background-color:white;
+        padding: 10px 10px;
+        border-radius: 20px;
+        border-color:aqua;
+        border-style: outset;
+     }
+     .social-item:hover{
+        color: darkcyan;
+        border-color: brown;
+        background-color: darkkhaki;
+     }
+     .sign-in button{
+        background-color: green;
+        color:white;
+        text-align: center;
+        height: 40px;
+        width: 150px;
+        font-size: medium;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius: 20px;
+    }
+    .sign-up button{
+        text-align: center;
+         height: 40px;
+         width: 150px;
+         
+         background-color:deepskyblue;
+         border-radius: 20px;
+         font-size: medium;
+         font-weight: bold;
+         font-family: 'Times New Roman', Times, serif;
+     }
+     a{
+        text-decoration: none;
+        font-style: normal;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: medium;
+        font-weight: 900;
+       }
+       input{
+        top: 50px;
+        padding: 10px;
+        height: 35px;
+        width: 50%;
+        line-height: 15px;
+        background-color:rgba(243, 236, 236, 0.997);
+    }
+
+    
+    #textnum{
+        padding:10px ;
+        box-sizing: border-box;
+       height: 30px;
+       width: 20rem;
+       
+       border-color:black;
+    }
+    form label{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-weight:bolder;
+        font-style: normal;
+        font-size: large;
+        color:black;
+      
+    }
+    form{
+        line-height: 50px;
+    }
+   
+     
+     
+
+   
+
+   
+
+
+
+    
